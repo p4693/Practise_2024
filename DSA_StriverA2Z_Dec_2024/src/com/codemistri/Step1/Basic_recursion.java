@@ -50,6 +50,7 @@ public class Basic_recursion {
 		result[0] = result[0] + n;
 		n--;
 		printSum(n, result);
+		//Result is committed
 
 	}
 
