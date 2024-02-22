@@ -1,0 +1,23 @@
+Q1.You are given an array of 0s and 1s in random order. Segregate 0s on the left side and 1s on the right side of the array.
+Q.You are given an array of positives and negatives in random order. Segregate positives on the left side and negatives on the right side of the array.
+Q2.Find common elements in three sorted arrays (Done)
+Q3.Find Duplicate element in an array
+Q4.Find maximum Difference between two elements of an array such that larger number appears
+ after that smaller number-Ex arr={7,9,5,6,13,2} ans 8 (Done)
+Q5.Buy and sell stocks(Same as Q4) LeetCode-121(Done)
+Q6.Find pairs of a given sum in a sorted array(Done)
+Q7.Remove Duplicate from unsorted Array- 
+Q8.Find Second Smallest element from an array
+Q9.Merge Two sorted array.
+Q10 two sum.
+Q11.Minimum element in sorted and rotated array
+Q12.sort 0,1,2
+Q13. Maximum SubArray Sum 
+Q14.Find the element that appears once
+Q15. Find top k most frequent element
+Q16.find peak Element(using binary search also) 
+Q17.Second largest element 
+Q18.Combination sum LeetCode 39
+Q19.Find first and last index of a element in a sorted Array (Two Approaches
+Q20.SubSets LeetCode 78
+Q21 rotate an Array by k steps
